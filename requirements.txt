@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+nltk
+vaderSentiment
+altair
+language-tool-python
+
