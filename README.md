@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://images.pexels.com/photos/5212335/pexels-photo-5212335.jpeg?auto=compress&cs=tinysrgb&w=1600" 
-       alt="AI Speech Evaluator Banner"
-       width="100%" />
-</p>
-
-
 # 🎤 AI Speech Evaluator
 
 **Automated, rubric-driven scoring system** that evaluates student spoken-introduction transcripts and returns a clear, coachable score (0–100) with per-criterion breakdowns and actionable feedback.
