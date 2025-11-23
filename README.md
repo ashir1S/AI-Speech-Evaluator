@@ -11,10 +11,11 @@
 
 ---
 **Deployed on Streamlit: [LIVE](https://ai-speech-evaluator-ykky5xb5iyzbdnhxuqmeapp.streamlit.app/)**
-## 📘 Project Summary
+
 ---
 
 ---
+## 📘 Project Summary
 This repository implements the **Nirmaan Education case-study**: a tool that accepts a **transcript** (text) and evaluates it against the official rubric. Scores & feedback are generated for:
 
 * **Salutation Level** (greeting quality)
