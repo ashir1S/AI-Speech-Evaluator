@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1600209142003-6e7948d6b6d5?auto=format&fit=crop&w=1400&q=80" alt="AI Speech Evaluator Banner" width="100%" />
+  <img src="https://images.pexels.com/photos/5212335/pexels-photo-5212335.jpeg?auto=compress&cs=tinysrgb&w=1600" 
+       alt="AI Speech Evaluator Banner"
+       width="100%" />
 </p>
+
 
 # 🎤 AI Speech Evaluator
 
