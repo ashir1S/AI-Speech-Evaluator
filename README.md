@@ -1,13 +1,15 @@
-# 🎤 AI Speech Evaluator
-
-**Automated, rubric-driven scoring system** that evaluates student spoken-introduction transcripts and returns a clear, coachable score (0–100) with per-criterion breakdowns and actionable feedback.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-UI-yellowgreen" alt="Streamlit" />
   <img src="https://img.shields.io/badge/NLP-Rule%2Bheuristic-orange" alt="NLP" />
   <img src="https://img.shields.io/badge/Status-Ready-success" alt="Status" />
 </p>
+
+# 🎤 AI Speech Evaluator
+
+**Automated, rubric-driven scoring system** that evaluates student spoken-introduction transcripts and returns a clear, coachable score (0–100) with per-criterion breakdowns and actionable feedback.
+
+
 
 ---
 **Deployed on Streamlit: [LIVE](https://ai-speech-evaluator-ykky5xb5iyzbdnhxuqmeapp.streamlit.app/)**
