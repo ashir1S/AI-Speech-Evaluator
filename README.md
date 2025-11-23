@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashir1S/AI-Speech-Evaluator/main/assets/banner.png" alt="AI Speech Evaluator Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1600209142003-6e7948d6b6d5?auto=format&fit=crop&w=1400&q=80" alt="AI Speech Evaluator Banner" width="100%" />
 </p>
 
 # 🎤 AI Speech Evaluator
